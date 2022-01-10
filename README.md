@@ -20,7 +20,17 @@
     - **Licenza**: MIT.
     - **Note**: Accetta contributers. Cerca investimenti. Sta assumendo.
 
-## 💰 Cryptocurrency
+## 💰 Decentralized Applications (blockchain, cryptocurrency, ...)
+
+- **PrimoDoc** - [GitLab repo](https://gitlab.com/opensource19/primodoc)
+
+    - **Mantainers:**
+        - Andrea Piccinini [Profilo Linkedin](https://www.linkedin.com/in/andrea-piccinini/), [Sito Internet Personale](https://piccinini.dev),
+
+    - **Descrizione**: Is a web UI + blockchain smart contract that interact with IPFS to store in a secure way your files on IPFS.
+    - **Usa**: HTML, SCSS, Javascript (ReactJS), Solidity
+    - **Licenza**: GNU General Public License (GPL) v3
+    - **Note**: Requires MetaMask to generate the encryption/decryption password and to write on the blockchain.
 
 ## 📐 Design
 
